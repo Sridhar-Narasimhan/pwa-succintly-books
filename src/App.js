@@ -4,9 +4,9 @@ import './App.css';
 import * as ReactDOM from 'react-dom';
 import { cardBook } from './datasource';
 import { Query, DataManager, Predicate } from '@syncfusion/ej2-data';
-import "@syncfusion/ej2-inputs/styles/material.css";
-import "@syncfusion/ej2-layouts/styles/material.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+import  "@syncfusion/ej2-inputs/styles/material.css";
+import  "@syncfusion/ej2-layouts/styles/material.css";
+import  "bootstrap/dist/css/bootstrap.min.css";
 
 let cardEle;
 let data = [];
