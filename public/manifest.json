@@ -1,9 +1,9 @@
 {
-  "short_name": "Succintly Series",
-  "name": "Succintly Series",
+  "short_name": "Succinctly Series",
+  "name": "Succinctly Series",
   "icons": [
     {
-      "src": "succintly_series.png",
+      "src": "succinctly_series.png",
       "sizes": "246x246",
       "type": "image/png"
     }
