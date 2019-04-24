@@ -1,3 +1,5 @@
+You can check this blog  [Create Progressive Web App with Syncfusion React UI Components](https://blog.syncfusion.com/post/create-progressive-web-app-using-syncfusion-react-ui-components.aspx) for detailed information about this project. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
